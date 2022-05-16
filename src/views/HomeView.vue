@@ -15,12 +15,13 @@
   margin: 0;
 }
 body{
-  height: 1920px;
-    background: url(src/assets/ametikool_bg.png);
   background-color: #007ec8;
 }
 main {
-
+height: 1920px;
+width: 1080px;
+height: 1920px;
+    background: url(src/assets/ametikool_bg.png);
 }
 
 .logo{
