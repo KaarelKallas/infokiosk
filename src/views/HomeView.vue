@@ -3,10 +3,12 @@
 </script>
 
 <template>
-  <main>
-    <img class="logo" src="../assets/logo.png" alt="logo">
-    <img class="gif" src="../assets/klikkfinal.gif" alt="gifpress">
-  </main>
+  <RouterLink to="buildings">
+    <main>
+      <img class="logo" src="../assets/logo.png" alt="logo">
+      <img class="gif" src="../assets/klikkfinal.gif" alt="gifpress">
+    </main>
+  </RouterLink>
 </template>
 
 <style>
@@ -14,9 +16,7 @@
   padding: 0px;
   margin: 0;
 }
-body{
-  background-color: #007ec8;
-}
+
 main {
 height: 1920px;
 width: 1080px;
