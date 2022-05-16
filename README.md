@@ -81,3 +81,5 @@ Ametikooli sümboolika
         võib pakkuda uusi variante
 
     värvide, fontide jne valikul võib/tuleks teha (põhjendatud) muudatusi
+![68747470733a2f2f692e696d6775722e636f6d2f6639633532584d2e6a706567](https://user-images.githubusercontent.com/71066610/168541124-e77557d6-68f2-4a96-b470-44d03c00ffeb.jpg)
+![68747470733a2f2f692e696d6775722e636f6d2f6254757841656e2e706e67](https://user-images.githubusercontent.com/71066610/168541132-74893f5e-666c-4f7a-a05d-778c8897cfc4.png)
