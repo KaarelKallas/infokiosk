@@ -18,7 +18,9 @@ Ajakava
     9.30 esmane analüüs tiimides
         tiimi liikmetega tutvumine
         briifist aru saamine
-        tekkivate küsimuste kirja panemine
+        tekkivate küsimuste kirja panemine![68747470733a2f2f692e696d6775722e636f6d2f6254757841656e2e706e67](https://user-images.githubusercontent.com/71066610/168541044-3b3a2683-0f1a-4973-8da6-dd64dc2953d6.png)![68747470733a2f2f692e696d6775722e636f6d2f6639633532584d2e6a706567](https://user-images.githubusercontent.com/71066610/168541049-18b20870-b2e8-41bd-81ee-b7c8b6321b45.jpg)
+
+
     ...
 
 17. mai
