@@ -4,18 +4,18 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
-  <header>
 
 
-    <div class="wrapper">
-
-      <nav>
-
-      </nav>
-    </div>
-  </header>
 
   <RouterView />
 </template>
+<style>
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
 
-
+     
+</style>
