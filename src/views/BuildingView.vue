@@ -15,10 +15,10 @@
         </div>
     </div>
     <div class="konverentsid">
-        <span>Konverentsiruumid</span>   
-        <span>Kohvik “Kass”</span>   
-        <span>Innovatsioonilabor</span>   
-        <span>Aula</span>   
+        <span>Konverentsiruumid</span>
+        <span>Kohvik “Kass”</span>
+        <span>Innovatsioonilabor</span>
+        <span>Aula</span>
     </div>
 </RouterLink>
 </template>
@@ -31,11 +31,7 @@ padding-left: 20px;
 .oppehoone{
     display: flex;
     flex-direction: column;
-    position: absolute;
     font-size: 30px;
-    top: 700px;
-    left: 100px;
-    color:black;
     gap: 10px;
 }
 .flex{
