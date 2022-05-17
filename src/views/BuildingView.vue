@@ -15,10 +15,10 @@
         </div>
     </div>
     <div class="konverentsid">
-        <span>Konverentsiruumid</span>   
-        <span>Kohvik “Kass”</span>   
-        <span>Innovatsioonilabor</span>   
-        <span>Aula</span>   
+        <span>Konverentsiruumid</span>   <img class="arrow" src="src/images/Noolorange.svg" alt="Nool">
+        <span>Kohvik “Kass”</span>  <img class="arrow" src="src/images/Noolorange.svg" alt="Nool"> 
+        <span>Innovatsioonilabor</span>  <img class="arrow" src="src/images/Noolorange.svg" alt="Nool"> 
+        <span>Aula</span>   <img class="arrow" src="src/images/Noolorange.svg" alt="Nool">
     </div>
 </RouterLink>
 </template>
@@ -26,7 +26,6 @@
 <style scoped>
 .arrow{
 padding-left: 20px;
-
 }
 .oppehoone{
     display: flex;
