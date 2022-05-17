@@ -1,3 +1,9 @@
 <template>
-<img src="../assets/logo.svg" alt="">
+
 </template>
+
+<style>
+body{
+
+}
+</style>
