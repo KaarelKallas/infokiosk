@@ -14,11 +14,9 @@ import MajajuhtNav from '../components/MajajuhtNav.vue';
                 <img src="../assets/oppehoonelogo.svg" alt="Õppehoone">
                 <span class="text-[40px] text-[#61A60B] font-bold">ÕPPEHOONE</span>
             </div>
-            <div>
-                <RouterLink class="flex" to="mess">
+            <div class="flex">
                     <span>Mess</span>
                     <img class="arrow" src="src/images/Nool.svg" alt="Nool">
-                </RouterLink>
             </div>
             <div class="flex">
                 <span>Raamatukogu</span>
@@ -34,10 +32,12 @@ import MajajuhtNav from '../components/MajajuhtNav.vue';
             </div>
         </div>
         <div class="BuildingContainer">
-            <div class="flex flex-col items-center gap-[29px]">
-                <img src="../assets/konverentsidlogo.svg" alt="logo">
-                <span class="text-[40px] text-[#F95F05] font-bold">KONVERENTSID</span>
-            </div>
+            <RouterLink to="mess">
+                <div class="flex flex-col items-center gap-[29px]">
+                    <img src="../assets/konverentsidlogo.svg" alt="logo">
+                    <span class="text-[40px] text-[#F95F05] font-bold">KONVERENTSID</span>
+                </div>
+            </RouterLink>
             <div class="flex">
                 <span>Konverentsiruumid</span>
                 <img class="arrow" src="src/images/Noolorange.svg" alt="Nool">
