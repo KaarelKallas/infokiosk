@@ -14,3 +14,11 @@
 </div>
   </main>
 </template>
+<style>
+main {
+        background-image: url("src/images/background.svg");
+        background-repeat: no-repeat;
+        width: 1080px;
+        height: 1920px;
+
+    }</style>
