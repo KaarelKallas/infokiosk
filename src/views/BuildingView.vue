@@ -15,10 +15,18 @@
         </div>
     </div>
     <div class="konverentsid">
+        <div>
         <span>Konverentsiruumid</span>   <img class="arrow" src="src/images/Noolorange.svg" alt="Nool">
+        </div>
+        <div>
         <span>Kohvik “Kass”</span>  <img class="arrow" src="src/images/Noolorange.svg" alt="Nool"> 
+        </div>
+        <div>
         <span>Innovatsioonilabor</span>  <img class="arrow" src="src/images/Noolorange.svg" alt="Nool"> 
+        </div>
+        <div>
         <span>Aula</span>   <img class="arrow" src="src/images/Noolorange.svg" alt="Nool">
+        </div>
     </div>
 </RouterLink>
 </template>
@@ -37,8 +45,14 @@ padding-left: 20px;
     color:black;
     gap: 10px;
 }
-.flex{
+.konverentsid{
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    font-size: 30px;
+    top: 700px;
+    left: 350px;
+    color:black;
+    gap: 10px;
 }
 </style>
